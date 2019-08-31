@@ -90,8 +90,9 @@ fi
 # some more ls aliases
 alias ll='ls -l'
 alias la='ls -A'
-alias l='ls -la'
+alias l='ls -lah'
 alias c='clear'
+alias cl-'clear && ls -lah'
 alias ..='cd ..'
 alias ~='cd ~'
 alias v='vim'
