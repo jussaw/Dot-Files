@@ -95,6 +95,7 @@ alias c='clear'
 alias cl='clear && ls -lah'
 alias ..='cd ..'
 alias ~='cd ~'
+alias cl='clear && ls -lah'
 alias v='vim'
 alias update='sudo apt update && sudo apt upgrade -y'
 
