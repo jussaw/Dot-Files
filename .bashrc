@@ -99,7 +99,6 @@ alias cl='clear && ls -lah'
 alias v='vim'
 alias update='sudo apt update && sudo apt upgrade -y'
 
-~/Dot-Files/updateRepo.sh
 #########################################
 
 # Alias definitions.
