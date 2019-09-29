@@ -2,4 +2,4 @@
 git pull
 cp .bashrc ~/.bashrc
 cp .vimrc ~/.vimrc
-. ~/.bashrc
+cp motd /etc/motd
