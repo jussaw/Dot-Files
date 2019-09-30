@@ -98,6 +98,7 @@ alias ~='cd ~'
 alias cl='clear && ls -lah'
 alias v='vim'
 alias update='sudo apt update && sudo apt upgrade -y'
+alias home='ssh pi@jussaw.duckdns.org'
 alias pi3='ssh pi@192.168.1.20'
 alias pi4='ssh pi@192.168.1.21'
 
