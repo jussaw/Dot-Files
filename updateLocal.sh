@@ -1,4 +1,5 @@
 #!/bin/bash
 git pull
-cp .bashrc ~/.bashrc
-cp .vimrc ~/.vimrc
+cp bash/.bashrc ~/.bashrc
+cp vim/.vimrc ~/.vimrc
+cp fish/config.fish ~/.config/fish/config.fish
