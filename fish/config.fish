@@ -13,7 +13,7 @@ alias pi4='ssh pi@192.168.1.21'
 
 
 function fish_greeting
-	cat /etc/motd
+#	cat /etc/motd
 end
 set fish_greeting
 
