@@ -8,6 +8,7 @@ alias ..='cd ..'
 alias cl='clear; and ls -lah'
 alias v='vim'
 alias update='sudo apt update; and sudo apt upgrade -y'
+alias sourcefish='source ~/.config/fish/config.fish' 
 alias fishrc='vim ~/.config/fish/config.fish'
 alias bashrc='vim ~/.bashrc'
 alias vimrc='vim ~/.vimrc'
@@ -16,9 +17,9 @@ alias pi3='ssh pi@192.168.1.20'
 alias pi4='ssh pi@192.168.1.21'
 
 # Edit Greeting
-function fish_greeting
-	cat /etc/motd
-end
+#function fish_greeting
+#	cat /etc/motd
+#end
 set fish_greeting
 
 # Adds command to run sudo !!
