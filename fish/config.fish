@@ -15,6 +15,7 @@ alias vimrc='vim ~/.vimrc'
 alias home='ssh pi@jussaw.duckdns.org'
 alias pi3='ssh pi@192.168.1.20'
 alias pi4='ssh pi@192.168.1.21'
+alias server='ssh justinserver@server'
 
 # Edit Greeting
 #function fish_greeting
