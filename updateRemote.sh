@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 cp ~/.config/fish/config.fish fish/config.fish
 cp ~/.bashrc bash/.bashrc
 cp ~/.vimrc vim/.vimrc
