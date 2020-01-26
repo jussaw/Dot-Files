@@ -2,6 +2,7 @@
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -lah'
+alias lless='ls -lah | less'
 alias c='clear'
 alias cl='clear; and ls -lah'
 alias ..='cd ..'
